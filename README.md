@@ -40,8 +40,8 @@ This project bridges the gap between complex healthcare analytics and accessible
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/cancer-prediction-system.git
-cd cancer-prediction-system
+git clone https://github.com/sha1002/Cancer-Prediction-Using-Genetic-Algorithms
+cd Cancer-Prediction-Using-Genetic-Algorithms
 ```
 
 2. Install required dependencies
